@@ -15,7 +15,7 @@
     <PackageProjectUrl>https://github.com/ChaoShengze/Args_Router.git</PackageProjectUrl>
     <RepositoryUrl>git@github.com:ChaoShengze/Args_Router.git</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
-    <PackageTags>C#</PackageTags>
+    <PackageTags>C#,args,arguments</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
