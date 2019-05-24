@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Args_Router</RootNamespace>
+    <Authors>Hope_Phenom</Authors>
+    <Description>A lightweight module that can handle the C# startup parameters for you.</Description>
+    <Copyright>Hope_Phenom</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyName>Args_Router</AssemblyName>
+    <Version>0.0.1</Version>
+    <PackageReleaseNotes>A lightweight module that can handle the C# startup parameters for you.</PackageReleaseNotes>
+    <PackageProjectUrl></PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
