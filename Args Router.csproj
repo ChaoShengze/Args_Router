@@ -12,7 +12,10 @@
     <AssemblyName>Args_Router</AssemblyName>
     <Version>0.0.1</Version>
     <PackageReleaseNotes>A lightweight module that can handle the C# startup parameters for you.</PackageReleaseNotes>
-    <PackageProjectUrl></PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/ChaoShengze/Args_Router.git</PackageProjectUrl>
+    <RepositoryUrl>git@github.com:ChaoShengze/Args_Router.git</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>C#</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
